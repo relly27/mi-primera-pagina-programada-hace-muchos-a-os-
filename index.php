@@ -1,6 +1,6 @@
 <?php
 //solicitar el archivo de conexion a la db
-include 'conexion_postgres.php';
+// include 'conexion_postgres.php';
 //$conexion = pg_connect("host=localhost dbname=db_proyecto user=postgres password=27561321") or die('error al conectar la base de datos');
 
 
